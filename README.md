@@ -28,6 +28,6 @@ Ones you have run the code you will get one of these
 
 
 The right one is the good result and the left one (or something like that) is the bad result.
-In my experiment you get good results half the time and bed results the other half. 
+In my experiments you get good results half the time and bad results the other half. 
 You can also see the current value of error and alpha in the command line.
 
